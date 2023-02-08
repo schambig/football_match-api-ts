@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/schambig/football_match-api-ts/issues"
   },
-  "homepage": "https://github.com/schambig/football_match-api-ts#readme"
+  "homepage": "https://github.com/schambig/football_match-api-ts#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
 }
