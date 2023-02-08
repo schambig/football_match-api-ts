@@ -1,0 +1,20 @@
+{
+  "name": "football_match-api-ts",
+  "version": "1.0.0",
+  "description": "API REST with Express that respond to quick queries made to its endpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schambig/football_match-api-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schambig/football_match-api-ts/issues"
+  },
+  "homepage": "https://github.com/schambig/football_match-api-ts#readme"
+}
